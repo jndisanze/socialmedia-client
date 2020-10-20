@@ -17,7 +17,7 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.3",
+    "react-scripts": "^3.4.3",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.0.0"
   },
@@ -43,5 +43,4 @@
     ]
   },
   "proxy": "https://obscure-plateau-42920.herokuapp.com/"
-
 }
